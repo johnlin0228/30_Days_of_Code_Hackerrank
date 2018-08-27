@@ -1,2 +1,3 @@
-# 30_Days_of_Code_Hackerrank
-About solution to 30 Days of Code Hackerrank. 
+# About
+
+Solutions to hackerrank: [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
